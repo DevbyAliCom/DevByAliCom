@@ -1,7 +1,7 @@
 # Ali Al Khateeb  
 *Software Engineer • SRE • Cloud-Native Architect*
 
-📍 Based in New Westminster, BC  
+📍 Based in Vancouver, BC  
 🧠 Obsessed with scalable systems, modular design, and generetive ai  
 ☁️ AWS Certified Developer | .NET Engineer since 2006
 
