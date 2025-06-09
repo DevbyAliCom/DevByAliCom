@@ -61,9 +61,9 @@ Accounting-grade module with messaging, caching, and full transactional integrit
 
 ## 🔗 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/devbyali)
+- 🔗 [LinkedIn](www.linkedin.com/in/eng-ali-alkhateeb)
 - 📧 connect@byali.tech
-- 🌐 [Coming Soon: devbyali.com](https://github.com/byali-dev)
+- 🌐 [Coming Soon: byali.tech](https://github.com/byali-dev)
 
 ---
 
