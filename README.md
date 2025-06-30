@@ -42,10 +42,7 @@ I don’t do fluff. I build. I document. I ship.
 ### 🧠 `IEsuite`  
 Inject intelligence into your .NET system. This module connects OpenAI into Aspire pipelines — clean, decoupled, and observable.
 
-### 🧾 `IntelliExpenses` *(coming soon)*  
-Voice-enabled expense tracker built on .NET Aspire + AWS. Think: Whisper meets accounting. Built for local shops, but scale-ready.
-
-### 📊 `GeneralLedger`  
+### 📊 `GeneralLedger`  *(coming soon)* 
 Accounting-grade module with messaging, caching, and full transactional integrity. The architectural backbone of IESuite.
 
 > ✅ All projects follow my hybrid architecture model: Clean + Vertical Slice + Modular Services.
